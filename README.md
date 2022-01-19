@@ -37,7 +37,11 @@ Os arquivos de operadores foram exemplos sobre:
 - Operador Ternario
 
 ## Switch
-- Conhecendo Switch
+- Estrutura do Switch
+
+## For
+- Estrutura do For
+- Includindo o For dentro do HTML
 
 ### Notas
 #### Diferenças de include e require
