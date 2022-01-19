@@ -32,6 +32,10 @@ Os arquivos de operadores foram exemplos sobre:
 - Inclusão de arquivos com Include e Require
 - Inclusão de arquivos com Include once e Require once
 
+## If
+- Controle de fluxo
+- Operador Ternario
+
 ### Notas
 #### Diferenças de include e require
 - Require: Obriga que o arquivo incluido exista e precisa estar funcionando perfeitamente, caso contrario retorna erro fatal
