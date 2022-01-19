@@ -36,8 +36,15 @@ Os arquivos de operadores foram exemplos sobre:
 - Controle de fluxo
 - Operador Ternario
 
+## Switch
+- Conhecendo Switch
+
 ### Notas
 #### Diferenças de include e require
 - Require: Obriga que o arquivo incluido exista e precisa estar funcionando perfeitamente, caso contrario retorna erro fatal
 - Include: Tenta executar o codigo caso falte o arquivo consultando arquivos na pasta path
 - Include once ou Require Once: Utilizar para evitar erros quando um arquivo é incluido mais de uma vez
+
+#### Diferenças entre Switch e o If
+- If: Possibilidade de usar operadores de comparação
+- Switch: Usado para casos que o resultado já esta determinado.
