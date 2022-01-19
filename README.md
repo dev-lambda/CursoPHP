@@ -22,3 +22,8 @@ Os arquivos de operadores foram exemplos sobre:
 - Novos operadores (Spaceship e Null Coalesce)
 - Operadores de incremento e decremento 
 - Prioridade de operadores
+
+## String
+- Difereça das aspas(Interpolação de variaveis)
+- Funções para strings
+- unções para manipulação de Strings
