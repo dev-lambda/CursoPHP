@@ -47,6 +47,11 @@ Os arquivos de operadores foram exemplos sobre:
 - Estrutura do foreach
 - Incluindo o Foreach dentro do HTML
 
+## While e Do While
+- Estrutura do While
+- Função Rand (Para numeros randomicos)
+- Estrutura do Do While
+
 ### Notas
 #### Diferenças de include e require
 - Require: Obriga que o arquivo incluido exista e precisa estar funcionando perfeitamente, caso contrario retorna erro fatal
@@ -56,3 +61,9 @@ Os arquivos de operadores foram exemplos sobre:
 #### Diferenças entre Switch e o If
 - If: Possibilidade de usar operadores de comparação
 - Switch: Usado para casos que o resultado já esta determinado.
+
+### Diferenças entre For, Foreach, While e Do Whilw
+- For: Utilizado para contadores, com valores iniciais, finais e incrementos
+- Foreach: Utilizado para Array e coleções
+- While: Utilizado para qualquer assunto desde que a condição seja verdadeira
+- Do While: Executa pelo menos uma vez mesmo a condição sendo falsa.
