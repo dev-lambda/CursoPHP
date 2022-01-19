@@ -27,3 +27,13 @@ Os arquivos de operadores foram exemplos sobre:
 - Difereça das aspas(Interpolação de variaveis)
 - Funções para strings
 - unções para manipulação de Strings
+
+## Include e Require
+- Inclusão de arquivos com Include e Require
+- Inclusão de arquivos com Include once e Require once
+
+### Notas
+#### Diferenças de include e require
+- Require: Obriga que o arquivo incluido exista e precisa estar funcionando perfeitamente, caso contrario retorna erro fatal
+- Include: Tenta executar o codigo caso falte o arquivo consultando arquivos na pasta path
+- Include once ou Require Once: Utilizar para evitar erros quando um arquivo é incluido mais de uma vez
