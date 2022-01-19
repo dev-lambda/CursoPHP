@@ -41,7 +41,11 @@ Os arquivos de operadores foram exemplos sobre:
 
 ## For
 - Estrutura do For
-- Includindo o For dentro do HTML
+- Incluindo o For dentro do HTML
+
+## Foreach
+- Estrutura do foreach
+- Incluindo o Foreach dentro do HTML
 
 ### Notas
 #### Diferenças de include e require
