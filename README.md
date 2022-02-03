@@ -52,6 +52,10 @@ Os arquivos de operadores foram exemplos sobre:
 - Função Rand (Para numeros randomicos)
 - Estrutura do Do While
 
+## Json
+- Convertendo um Array em Json
+- COnvertendo um Json em array
+
 ### Notas
 #### Diferenças de include e require
 - Require: Obriga que o arquivo incluido exista e precisa estar funcionando perfeitamente, caso contrario retorna erro fatal
