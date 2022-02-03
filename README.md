@@ -60,6 +60,12 @@ Os arquivos de operadores foram exemplos sobre:
 - Estrutura de constantes
 - Conhecendo algumas constantes pre definidas
 
+## Session
+- Conhecendo estrutura de sessions
+- Criando sessões e destruindo sessões
+- Conhecendo IDs de sessões
+- Forçando a geração de IDs diferentes comando session_regenerate_id()
+
 ### Notas
 #### Diferenças de include e require
 - Require: Obriga que o arquivo incluido exista e precisa estar funcionando perfeitamente, caso contrario retorna erro fatal
