@@ -56,6 +56,10 @@ Os arquivos de operadores foram exemplos sobre:
 - Convertendo um Array em Json
 - COnvertendo um Json em array
 
+## Constante
+- Estrutura de constantes
+- Conhecendo algumas constantes pre definidas
+
 ### Notas
 #### Diferenças de include e require
 - Require: Obriga que o arquivo incluido exista e precisa estar funcionando perfeitamente, caso contrario retorna erro fatal
