@@ -70,7 +70,8 @@ Os arquivos de operadores foram exemplos sobre:
 - Conhecendo funções e rotinas
 - Definindo valores para as funções
 - Passagem de parametro por valor ou por referencia
-- Novidades para funções no PHP7
+- Declaração de paremetros de tipo escalares
+- 
 
 
 ### Notas
