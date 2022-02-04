@@ -66,6 +66,13 @@ Os arquivos de operadores foram exemplos sobre:
 - Conhecendo IDs de sessões
 - Forçando a geração de IDs diferentes comando session_regenerate_id()
 
+## Funções
+- Conhecendo funções e rotinas
+- Definindo valores para as funções
+- Passagem de parametro por valor ou por referencia
+- Novidades para funções no PHP7
+
+
 ### Notas
 #### Diferenças de include e require
 - Require: Obriga que o arquivo incluido exista e precisa estar funcionando perfeitamente, caso contrario retorna erro fatal
@@ -81,3 +88,6 @@ Os arquivos de operadores foram exemplos sobre:
 - Foreach: Utilizado para Array e coleções
 - While: Utilizado para qualquer assunto desde que a condição seja verdadeira
 - Do While: Executa pelo menos uma vez mesmo a condição sendo falsa.
+
+### Funções 
+Funcões necessariamente precisa retornar um valor, caso alguma função não retorne valor é chamado de rotinas
